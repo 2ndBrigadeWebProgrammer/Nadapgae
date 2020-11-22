@@ -13,16 +13,15 @@ body {
     color:#04080F;
 }
 
-#gnb {
+#nav-bar{
     position:relative;
     margin:10px 1px 10px; 
     padding : 10px 1px 10px;
-    border-top:1px dotted #dde4e9;
-    border-bottom:1px solid #dde4e9;
+    border:1px groove #000;
     background:#DAE3E5;
 }
 
-ul {
+.nav-ul {
     margin:0;
     padding:0;
     list-style:none;
