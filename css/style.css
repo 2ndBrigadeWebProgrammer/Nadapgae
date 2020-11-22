@@ -1,0 +1,35 @@
+a:link, a:visited {
+    color:#000;
+    text-decoration:none
+}
+
+a:hover, a:focus, a:active {
+    color:#;
+}
+
+body {
+    background-color : #BBD1EA;
+    font-family:verdana, arial, helvetica, sans-serif;
+    color:#04080F;
+}
+
+#gnb {
+    position:relative;
+    margin:10px 1px 10px; 
+    padding : 10px 1px 10px;
+    border-top:1px dotted #dde4e9;
+    border-bottom:1px solid #dde4e9;
+    background:#DAE3E5;
+}
+
+ul {
+    margin:0;
+    padding:0;
+    list-style:none;
+}
+
+li {
+    padding:5%;
+    display:inline;
+    text-align : center;
+}
