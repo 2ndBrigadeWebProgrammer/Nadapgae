@@ -8,10 +8,14 @@ a:link, a:visited {
 }
 
 a:hover, a:focus, a:active {
-    color:#;
+    color:#000;
 }
 div {
     margin :0;
+}
+
+a.here {
+    color : #F75E2D;
 }
 
 body {
