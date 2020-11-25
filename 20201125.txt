@@ -1,0 +1,11 @@
+Frontend Roadmap
+https://roadmap.sh/frontend
+
+HTTP in depth
+https://kamranahmed.info/blog/2016/08/13/http-in-depth/
+
+TCP/IP 
+https://www.youtube.com/watch?v=OTwp3xtd4dg
+
+OSI model
+https://www.forcepoint.com/cyber-edu/osi-model
