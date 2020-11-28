@@ -60,7 +60,7 @@ body {
     padding : 33px;
     width:77%;
     /*border:1px groove #000;*/
-    background-color : #fafaf1;
+    background-color : #fff;
     
 
 }
@@ -89,7 +89,7 @@ li.horizontal {
 li.vertical {
     margin: 10% 0% 0%;
     padding:3%;
-    background-color:#a1c6ea;
-    border-bottom: 3px solid #dae3e5;
+    background-color:#000;
+    border-bottom: 3px solid #a1c6ea;
     text-align : left;
 }
