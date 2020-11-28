@@ -54,7 +54,7 @@ body {
 }
 .vertical-nav-bar {
     width:22%;
-    background-color : #a1c6ea;
+    background-color : #fff;
 }
 .content{
     padding : 33px;
@@ -89,7 +89,7 @@ li.horizontal {
 li.vertical {
     margin: 10% 0% 0%;
     padding:3%;
-    background-color:#000;
+    background-color:#fff;
     border-bottom: 3px solid #a1c6ea;
     text-align : left;
 }
