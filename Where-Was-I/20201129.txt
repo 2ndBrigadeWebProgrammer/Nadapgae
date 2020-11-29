@@ -1,0 +1,6 @@
+HTML all read; CSS's turn
+https://developer.mozilla.org/en-US/docs/Learn/CSS
+
+
+link between frontend and backend
+https://vsupalov.com/how-backend-and-frontend-communicate/
